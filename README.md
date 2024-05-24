@@ -7,9 +7,13 @@ This application is developed to assist obese diabetic patients in managing thei
 **Features**
 
 Personalized Weekly Meal Plans: Tailored to meet the dietary requirements of obese diabetic patients.
+
 Detailed Meal Timing: Each meal includes precise timing details to help manage blood sugar levels effectively.
+
 Visual Meal Representations: Visually appealing images of each meal to enhance the user experience.
+
 Exercise Scheduling: Allows the user to specify their preferred time for exercise (morning, afternoon, or evening) to encourage regular physical activity.
+
 User-Friendly Interface: Easy-to-use interface designed for users with minimal technical expertise.
 
 **Getting Started**
