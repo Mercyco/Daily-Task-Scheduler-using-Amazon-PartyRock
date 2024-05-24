@@ -46,3 +46,6 @@ As this project was created using Amazon PartyRock without coding, contributions
 
 **Acknowledgments**
 Amazon PartyRock for providing a platform to develop this application without coding.
+
+**Conclusion**
+The Daily Task Scheduler Application for Obese Diabetic Patients aims to provide a comprehensive and user-friendly solution to help manage and improve the health of obese diabetic patients. By offering personalized meal plans and flexible exercise scheduling, the application addresses critical aspects of diabetes management. We hope this tool makes it easier for users to maintain a healthy lifestyle and achieve their wellness goals. Thank you for using our application, and we look forward to your feedback to continue enhancing its features and effectiveness.
