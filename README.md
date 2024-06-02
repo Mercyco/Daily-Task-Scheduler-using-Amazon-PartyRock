@@ -32,6 +32,16 @@ Meal Planning: View your personalized weekly meal plan with detailed timing and 
 Exercise Scheduling: Choose your preferred time of day for exercise and add it to your daily schedule.
 Daily Overview: Check your daily tasks including meals and exercise routines to stay on track with your health goals.
 
+**Steps**
+Visit the website : https://partyrock.aws/
+Create your first application by clicking on ‘Build your own app’.
+Describe what you would like the app to do. Let’s go for something fun here!
+Click on Generate app, get some snacks and let PartyRock do the work for you!
+Click on ‘Build your own app’ and enter an appropriate prompt. 
+Click on ‘Generate App’ and wait for PartyRock to do the work for you!
+PartyRock generated an application which takes tasks to be done as an input, gives the schedule according to priorities, and even provides a chatbot to refine your schedule!
+You can try adding or changing the widgets according to your own imagination. 
+
 **Application Structure**
 Meal Planning Module
 Personalized Recommendations: Meal plans are customized based on user input.
